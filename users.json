@@ -11,24 +11,6 @@
       "name": "Bharath",
       "branch": "CIVIL",
       "email": "bharath@gmail.com"
-    },
-    {
-      "id": "3",
-      "name": "Shiva",
-      "branch": "DS",
-      "email": "shiva@gmail.com"
-    },
-    {
-      "id": "4",
-      "name": "Adithya",
-      "branch": "CSE",
-      "email": "adityaj@gmail.com"
-    },
-    {
-      "id": null,
-      "name": null,
-      "branch": null,
-      "email": null
     }
   ]
 }
